@@ -1,4 +1,4 @@
-# Real Estate and NFT Solutions: A Comprehensive Guidei
+# Real Estate and NFT Solutions: A Comprehensive Guide
 
 ![Alt text](Images/LeandroHugo_Real_Estate_and_NFT_Solutions_A_Comprehensive_Guide_56e9e16a-c9b5-4fcf-a21c-08e265b7a767.png)
 
@@ -43,3 +43,4 @@ This section will showcase real-life examples and case studies of NFTs being app
 In conclusion, we will summarize the potential of NFTs in revolutionizing the real estate industry, outlining the benefits and opportunities that these technologies offer in overcoming the existing challenges and transforming the property market for a more efficient, transparent, and accessible future.
 
 Feel free to contribute to this repository by submitting issues or pull requests.!![Alt text](Images/LeandroHugo_Eth_smart_contract_crypto_with_the_name_NFTerra_est_2b89efe3-1fea-4159-b4d3-a1b474d6c41d.png)
+
